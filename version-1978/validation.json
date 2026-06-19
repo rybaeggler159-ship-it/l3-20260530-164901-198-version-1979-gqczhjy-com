@@ -1,0 +1,11 @@
+{
+  "html_files": 2015,
+  "detail_files": 2000,
+  "baidu_ok": true,
+  "category_coverage": 2000,
+  "category_coverage_ok": true,
+  "player_sample_ok": true,
+  "logo_ok": true,
+  "video_vendor_lines": 8421,
+  "one_line_generated_css_js_ok": true
+}
