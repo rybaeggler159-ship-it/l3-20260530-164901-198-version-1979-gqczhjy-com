@@ -1,1 +1,0 @@
-Static movie site generated from uploaded TXT/JS/CSS assets. Copy 1.jpg-150.jpg to the site root if you want full poster and hero visuals.
